@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @vp-michell and I'm a Data Scientist and Business Intelligence Professional focus in the area of Chain Supply. Trough machine learning, data analyis and business intelligence methods, my goals are giving enterprises a much more robust method to estimate inventory policies, replenishment systems and improve their logistics. 
+- 👀 I’m interested in Chain Supply, Deep Learning, AI and eSports.
+- 🌱 I’m currently learning Machine Learning Operations.
+- 📫 How to reach me: mmartinez@vpconsulting.mx
 
 <!--
 **vp-michell/vp-michell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
